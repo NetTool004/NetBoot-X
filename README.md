@@ -23,4 +23,4 @@ Windows utility for boot and network optimization with automated tweaks and a da
 ## Quick Start
 1. Clone or download the repository:
    ```bash
-   git clone https://github.com/NetTool004/NetBoot-X.git
+   https://github.com/NetTool004/NetBoot-X.git
