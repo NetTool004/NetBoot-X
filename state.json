@@ -1,0 +1,14 @@
+{
+  "language": "TH",
+  "features": {
+    "net_dns": false,
+    "flush_dns": false,
+    "reset_net": false,
+    "fast_startup": false,
+    "hibernation": false,
+    "ultimate_power": false,
+    "temp_clean": false,
+    "game_mode": false,
+    "xbox_dvr": false
+  }
+}
